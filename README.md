@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IbraheimTarek
-- 👀 I’m interested in Games
-- 🌱 I’m currently learning Game Development
+- 👀 I’m interested in Games Development using Unity and Unreal.
+- 🌱 I’m currently learning Game Development, Wpp Development and Web Development
 <!---
 IbraheimTarek/IbraheimTarek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
