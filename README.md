@@ -36,7 +36,7 @@ You can click the Preview link to take a look at your changes.
 </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
 
 ## Most projects' languages
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=IbraheimTarek&show_icons=true&locale=en&layout=compact" alt="IbraheimTarek" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=IbraheimTarek&show_icons=true&locale=en&layout=compact&theme=monoki" alt="IbraheimTarek" /></p>
 
 
 ![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=IbraheimTarek.IbraheimTarek)   <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
