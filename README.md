@@ -53,14 +53,11 @@ You can click the Preview link to take a look at your changes.
   </a> <a href="https://dotnet.microsoft.com/en-us/download/dotnet-framework/net472" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-plain-wordmark.svg" alt="dotnet" width="40" height="40"/>
 </a> </p>
 
+## Status
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IbraheimTarek&show_icons=true&theme=radical)
 ## Most projects' languages
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=IbraheimTarek&show_icons=true&locale=en&theme=nord&hide_border=true&layout=compact" alt="IbraheimTarek" /></p>
 </p>
 
-<p> <img align="left" ![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=IbraheimTarek.IbraheimTarek)   <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
-</p>
+![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=IbraheimTarek.IbraheimTarek)   <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
 
-## Status
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IbraheimTarek&show_icons=true&theme=radical)
