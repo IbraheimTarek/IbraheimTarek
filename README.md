@@ -6,8 +6,6 @@
 IbraheimTarek/IbraheimTarek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=IbraheimTarek&label=Profile%20views&color=0e75b6&style=flat" alt="IbraheimTarek" /> </p>
-
 ## Tools & languages 
 <h3 align="left">Mobile pack:</h3>
 <p align="left">
