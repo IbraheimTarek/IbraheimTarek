@@ -6,7 +6,7 @@
 IbraheimTarek/IbraheimTarek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=IbraheimTarek&theme=nord&border_color=nord" alt="IbraheimTarek" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=IbraheimTarek&theme=nord&border_radius=0" alt="IbraheimTarek" /></a> </p>
 
 ## Tools & languages 
 <h3 align="left">Mobile pack:</h3>
